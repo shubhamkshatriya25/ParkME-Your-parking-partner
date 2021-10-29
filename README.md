@@ -14,6 +14,6 @@ Flutter | Firebase | Firestore | Google Maps API | RazorPay API | Twilio API
 
 ## App Interface:
 ![thumbnail](images/auth.jpg)
-![thumbnail](images/paymentandconfirmation.png)
 ![thumbnail](images/searchandbook.png)
+![thumbnail](images/paymentandconfirmation.png)
 ![thumbnail](images/profile.png)
